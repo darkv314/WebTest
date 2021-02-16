@@ -42,7 +42,7 @@
         <meta name="viewport" content="width=device-width,
         initial-scale=1.0">
         <meta charset="utf-8">
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="styles.css">
         <title>Inicio de sesión</title>
     </head>
     <body>
@@ -59,7 +59,7 @@
                 <!-- CSS para las flechas  -->
                 <form method="post">
                     Código de estudiante <input type="number" name="user_id" placeholder="Ej: 12345">
-                    Carnet de identidad <input type="number" name="ci" placeholder="11111111">
+                    Carnet de identidad <input type="number" name="ci" placeholder="Ej: 11111111">
                     <input type="submit" name="submit" value="Enviar">
                 </form> 
             </div>
