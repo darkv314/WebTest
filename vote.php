@@ -27,7 +27,7 @@
                 </div>
                 <div class="content">
                     <h2>Card one</h2>
-                    <p>Insert some text lol</p>
+                    <p>Al obstinado escalador le tomó años de intentos y fracasos llegar a la cima para descubrir, tristemente, que allí tampoco está la felicidad.</p>
                     <a href="vote.php">Votar</a>
                 </div>
             </div>
@@ -37,7 +37,7 @@
                 </div>
                 <div class="content">
                     <h2>Card two</h2>
-                    <p>Insert some text lol</p>
+                    <p>Al obstinado escalador le tomó años de intentos y fracasos llegar a la cima para descubrir, tristemente, que allí tampoco está la felicidad.</p>
                     <a href="vote.php">Votar</a>
                 </div>
             </div>

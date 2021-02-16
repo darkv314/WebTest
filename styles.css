@@ -37,13 +37,13 @@ body
     display: flex;
     flex-direction: column;
     box-shadow: 0 5px 202px rgba(0,0,0,0.5);
-    transition: 0.3s ease-in-out;
+    /* transition: 0.3s ease-in-out; */
 }
 
-.container .card:hover
+/* .container .card:hover
 {
     height: 440px;
-}
+} */
 
 .container .card .imgBx
 {
@@ -67,22 +67,22 @@ body
 .container .card .content
 {
     position: relative;
-    margin-top: -140px;
+    margin-top: -45px;
     padding: 10px 15px;
     text-align: center;
     color: black;
-    visibility: hidden;
+    /* visibility: hidden;
     opacity: 0;
-    transition: 0.3s ease-in-out;
+    transition: 0.3s ease-in-out; */
 }
 
-.container .card:hover .content
+/* .container .card:hover .content
 {
     visibility: visible;
     opacity: 1;
     margin-top: -40px;
     transition-delay: 0.1s;
-}
+} */
 
 .container .card .content a {
     text-decoration: none;
